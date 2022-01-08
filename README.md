@@ -2,6 +2,9 @@
 
 ![project-letmeask](https://user-images.githubusercontent.com/82068881/123550034-df0dc600-d741-11eb-9870-d1156145c782.png)
 ***
+
+Você pode acessar o site no ar [aqui](https://letmeask-nlw-b959d.web.app/).
+
 Projeto feito durante o evento Next Level Week #Together promovido pela Rocketseat.
 
 Foram utilizadas as tecnologias HTML, CSS e React.
